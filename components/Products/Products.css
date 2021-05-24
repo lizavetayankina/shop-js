@@ -31,6 +31,7 @@ padding: var(--spacing-large) auto;
 }
 .products-element__price {
     margin-top: var(--spacing-mediun);
+    color: var(--coclor-nonaccent);
 }
 .products-element__btn {
     margin-top: var(--spacing-mediun);
