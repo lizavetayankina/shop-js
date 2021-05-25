@@ -46,7 +46,7 @@ padding: 30px auto;
     font-family: inherit;
     font-size: inherit;
 }
-.products-element__btn:active {
+.products-element__btn_active {
     border: 1px solid transparent;
     background-image: var(--linear-gradient);
 }
