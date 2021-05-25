@@ -2,11 +2,10 @@
 :root {
     --color-ligth:  #f8f9fa;
     --color-white: #fff;
-    --coclor-nonaccent: #8080;
     --spacing-small: 10px;
-    --spacing-mediun: 15px;
+    --spacing-medium: 15px;
     --spacing-large: 30px;
-    
+    --color-unaccent: #808080;
 	--border-radius: 3px;
     --linear-gradient: linear-gradient(to right, #e2f87c, #d6f567, #c8f151, #b9ee38, #a8eb12);
     --box-shadow: 
